@@ -1,0 +1,14 @@
+D:\учёба\циклWhile\bin\Debug\net8.0\циклWhile.exe
+D:\учёба\циклWhile\bin\Debug\net8.0\циклWhile.deps.json
+D:\учёба\циклWhile\bin\Debug\net8.0\циклWhile.runtimeconfig.json
+D:\учёба\циклWhile\bin\Debug\net8.0\циклWhile.dll
+D:\учёба\циклWhile\bin\Debug\net8.0\циклWhile.pdb
+D:\учёба\циклWhile\obj\Debug\net8.0\циклWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\учёба\циклWhile\obj\Debug\net8.0\циклWhile.AssemblyInfoInputs.cache
+D:\учёба\циклWhile\obj\Debug\net8.0\циклWhile.AssemblyInfo.cs
+D:\учёба\циклWhile\obj\Debug\net8.0\циклWhile.csproj.CoreCompileInputs.cache
+D:\учёба\циклWhile\obj\Debug\net8.0\циклWhile.dll
+D:\учёба\циклWhile\obj\Debug\net8.0\refint\циклWhile.dll
+D:\учёба\циклWhile\obj\Debug\net8.0\циклWhile.pdb
+D:\учёба\циклWhile\obj\Debug\net8.0\циклWhile.genruntimeconfig.cache
+D:\учёба\циклWhile\obj\Debug\net8.0\ref\циклWhile.dll
